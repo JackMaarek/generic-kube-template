@@ -1,0 +1,1 @@
+# generic-kube-template
